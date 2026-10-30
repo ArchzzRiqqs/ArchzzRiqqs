@@ -2,7 +2,7 @@
 <br /><br />
 <img src="assets/Photo.png" width="250" alt="Toriq Habil Fadhila" />
 <br />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=BB9AF7&center=true&vCenter=true&width=560&height=50&lines=Hi,+I%27m+Toriq27+Habil27+Fadhila;Information+Systems+Student;I+Build+Software+Solutions;System+Analysis+%C2%B7+Software+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=BB9AF7&center=true&vCenter=true&width=560&height=50&lines=Hi,+I%27m+Toriq%27+Habil%27+Fadhila;Information+Systems+Student;I+Build+Software+Solutions;System+Analysis+%C2%B7+Software+Development" alt="Typing animation" />
 <br />
 <img src="icons/book-open.svg" width="17" height="17" align="absmiddle" alt="" /> <b>Learning &amp; Building</b>
 &nbsp;&nbsp;·&nbsp;&nbsp;
