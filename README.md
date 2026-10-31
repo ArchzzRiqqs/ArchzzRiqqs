@@ -28,22 +28,22 @@
 <img src="https://img.shields.io/badge/Git-24283b?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-24283b?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-24283b?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDA3QUNDIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMTggMTYgNC00LTQtNCIvPjxwYXRoIGQ9Im02IDgtNCA0IDQgNCIvPjxwYXRoIGQ9Im0xNC41IDQtNSAxNiIvPjwvc3ZnPg%3D%3D" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-24283b?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 
 <div align="center">
-<img src="icons/terminal-card.svg"
-width="100%"
+<img src="icons/terminal-card.svg" width="100%" alt="Terminal card" />
 </div>
 
 ## <img src="icons/chart.svg" width="21" height="21" align="absmiddle" alt="" /> GitHub Stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HiToriqq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiToriqq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="165" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
-
-<img src="https://streak-stats.demolab.com/?user=HiToriqq&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ## <img src="icons/activity.svg" width="21" height="21" align="absmiddle" alt="" /> Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HiToriqq&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiToriqq/HiToriqq/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/HiToriqq/HiToriqq/output/github-snake.svg" width="100%" alt="Contribution snake" />
+</picture>
 
 ## Contact
 
