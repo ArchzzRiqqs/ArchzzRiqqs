@@ -10,7 +10,7 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <img src="icons/map-pin.svg" width="17" height="17" align="absmiddle" alt="" /> <b>Malang, Indonesia</b>
 <br /><br />
-<img src="https://img.shields.io/github/followers/HiToriqq?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=24283b&logo=github&logoColor=white" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/ArchzzRiqqs?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=24283b&logo=github&logoColor=white" alt="GitHub Followers" />
 </div>
 
 ## <img src="icons/code.svg" width="21" height="21" align="absmiddle" alt="" /> Tech Stack
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/TypeScript-24283b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-24283b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-24283b?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" /> <img src="https://img.shields.io/badge/Python-24283b?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
 
 **Frameworks &amp; Runtime**<br />
-<img src="https://img.shields.io/badge/Node.js-24283b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-24283b?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-24283b?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Laravel-24283b?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/Node.js-24283b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-24283b?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-24283b?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Laravel-24283b?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" /> <img src="https://img.shields.io/badge/CodeIgniter-24283b?style=flat-square&logo=codeigniter&logoColor=EF4223" alt="CodeIgniter" />
 
 **Database &amp; ORM**<br />
 <img src="https://img.shields.io/badge/PostgreSQL-24283b?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-24283b?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/MySQL-24283b?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
@@ -41,8 +41,8 @@
 ## <img src="icons/activity.svg" width="21" height="21" align="absmiddle" alt="" /> Contribution Graph
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiToriqq/HiToriqq/output/github-snake-dark.svg" />
-<img src="https://raw.githubusercontent.com/HiToriqq/HiToriqq/output/github-snake.svg" width="100%" alt="Contribution snake" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchzzRiqqs/ArchzzRiqqs/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/ArchzzRiqqs/ArchzzRiqqs/output/github-snake.svg" width="100%" alt="Contribution snake" />
 </picture>
 
 ## Contact
@@ -50,7 +50,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/toriqhabilfadhila21"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzFhMWIyNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:toriqqhabilfadhila21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-bb9af7?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="Email" /></a>
-<a href="https://github.com/HiToriqq"><img src="https://img.shields.io/badge/GitHub-Profile-9ece6a?style=for-the-badge&logo=github&logoColor=1a1b27" alt="GitHub" /></a>
+<a href="https://github.com/ArchzzRiqqs"><img src="https://img.shields.io/badge/GitHub-Profile-9ece6a?style=for-the-badge&logo=github&logoColor=1a1b27" alt="GitHub" /></a>
 <br /><br />
 
 </div>
